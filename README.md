@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-Designed and developed a multi-page interactive Power BI dashboard simulating a banking loan portfolio risk analytics system.
+Designed and developed a multi-page interactive Power BI dashboard simulating a **banking loan portfolio risk analytics system.**
 
 The solution analyzes loan performance, borrower demographics, credit risk indicators, and time-based portfolio trends to support data-driven lending decisions and proactive risk monitoring.
 
